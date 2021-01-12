@@ -29,7 +29,7 @@
   "description": "",
   "dependencies": {
     "autoprefixer": "^9.7.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "fomantic-ui-css": "^2.8.4",
     "jquery": "^3.5.0",
