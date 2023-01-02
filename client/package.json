@@ -13,16 +13,16 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
-    "css-loader": "^3.5.2",
+    "css-loader": "^6.7.3",
     "eslint": "^6.8.0",
     "file-loader": "^6.0.0",
-    "html-webpack-plugin": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "node-sass": "^4.14.1",
     "prettier": "^2.0.4",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "style-loader": "^1.1.4",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.11.0"
   },
   "keywords": [],
@@ -33,7 +33,7 @@
     "babel-polyfill": "^6.26.0",
     "fomantic-ui-css": "^2.8.4",
     "jquery": "^3.5.0",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^7.0.2",
     "rxjs": "^6.5.5"
   }
 }
